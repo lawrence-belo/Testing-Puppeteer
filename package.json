@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^8.0.1",
+    "puppeteer": "^4.0.1"
+  }
+}
